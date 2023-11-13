@@ -1,26 +1,107 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 第46期 | 经典主题与热点人物素材汇编
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: 第46期 | 经典主题与热点人物素材汇编
 image: /img/blog-chemex.jpg
 ---
+经典主题素材
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+\    01.适用主题：创新，因时制宜，教条范例
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+\    古人认识到“成败相因，理不常泰”，一味重复前代的教条与范例，很可能事与愿违。宋襄公面对强悍的楚师狃于旧“礼”，认为“君子不击不成之列，不重伤，不擒二毛”，致使泓之战惨败于楚。毕竟春秋时代已不同于先前，不少人已经为克敌制胜而不择手段。
 
-## The little secrets of Chemex brewing
+\    秦并六国之时丞相王绾建议秦始皇分封同姓子弟，群臣“皆以为便”而只有李斯力排众议，说明大多数臣子把周代的分封看成天经地义的事，没有看出其弊端；刘邦鉴于异姓王离心离德，错误吸取了秦亡的历史教训，大封同姓诸侯最终酿成七国之乱。“圣人不期修古，不法常可，论世之事，因为之备”，好的政治家就像良医一样，对待千变万化的病状应采取不同的方剂。
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+\    02.适用主题：爱国情怀，无私奉献，大我小我
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+\    诗人海涅说过：“谁不爱自己的祖国，他就不属于人类。”王淦昌与邓稼先，为研制“两弹一星”，离家28年，家人竟不知道他们去了哪里。为了保密，王淦昌改名为王京。一年除夕夜，两人在帐篷里相互敬酒，邓稼先对王淦昌说：“叫了王京同志几十年，叫一次王淦昌同志吧！”此情此景，彰显爱国情怀，展示奋斗精神，令人肃然起敬。
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+\    如果空喊口号，而不去行动，不去奋斗，也不能称之为爱国。检验一名知识分子是否爱国，不看表态，而看表率；不看说得如何，而看做得如何。黄旭华，为了祖国的核潜艇，30年隐居大洋荒岛；林俊德，为了祖国的核试验，52年扎根戈壁大漠……他们甘心做“沉默的砥柱”，以奋斗彰显报国至诚，是真正的知识分子、大写的科学家。
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+\    03.适用主题：执着专注，精益求精，工匠精神
+
+\    江西省政府对在2022年世界技能大赛特别赛中获得金牌的匠人李德鑫奖励人民币30万元。李德鑫出生于大山里，家乡南康有着“木匠之乡”等美誉。他几十年如一日追求家具之美、木工之专，“每当把一块块平淡无奇的木头，变成一件件精美的家具艺术品时，就感觉内心得到巨大的满足，有一种莫名的成就感。”“心心在一艺，其艺必工；心心在一职，其职必举。”这种执着专注、精益求精、一丝不苟、追求卓越的工匠情怀值得大力传承和弘扬。
+
+\    中央电视台《大国工匠》纪录片中讲述的24位大国工匠故事中，最令人深刻的细节就是他们对匠艺永无止境的追求与超越。比如匠人彭祥华，能够把装填爆破药量的呈送控制在远远小于规定的最小误差之内；高凤林，我国火箭发动机焊接第一人，不仅把焊接误差控制在0.16毫米之内，而且将焊接停留时间从0.1秒缩短到0.01秒……先修“心境”而后方达“技境”正是匠心文化的体现。
+
+\    04.适用主题：毅力，自强不息，坚强乐观
+
+\    “八十年代新雷锋”张海迪，因5岁患脊髓血管瘤高位截瘫，她不沮丧沉沦，而是自学成才，与疾病斗争，重塑人生信念。不仅翻译了十万字英文小说，编著了《生命的追问》《轮椅上的梦》等励志作品，更自学针灸，忍受病痛为群众治病达1万多人次。面对命运的残酷，张海迪时刻想着为人民多做什么，而不是索取什么，被称为“当代保尔”。
+
+\    1992年，张超凡出生在一个普通的工人家庭。天生的左臂缺失让她成了“不一样的孩子”，却也让她有了为爱逐梦的“超凡”人生。为了锻炼平衡能力，张超凡7岁开始学习速滑。画画、书法、游泳、武术……张超凡挑战着一个接一个艰难甚至看起来无法完成的任务。夺得吉林省速滑大赛少儿组冠军，在全国书画比赛中拿到金牌，以全国艺考总分第一名的成绩考上北京工商大学……张超凡一次又一次在一群健全孩子中脱颖而出。
+
+\    05.适用主题：攻坚克难，不畏艰难，开拓创新
+
+\    路不行不到，事不为不成。无论一项事业还是一国发展，都是在攻坚克难中才能实现。张骞“凿空西域”，郑和万里探海，中国人素来具有不畏艰难、敢于开拓的勇毅品格。
+
+中国虽是港口大国，但在全自动化码头方面还是一片空白，赴外国学习核心技术却遭各种以“保密”为由的防备与壁垒，既然如此，张连钢和他的团队下定决心自己干。无资料、无外援、无经验，没有吓退他们；时间与资金压力巨大，没有压垮他们；试验中的失败以及“大家”“小家”的情感撕扯，没有动摇他们。这支青岛港“土生土长”的创新团队，历经多年探索，成功打破外国技术封锁，架构起了中国“智慧港口”，填补了中国在全自动化码头方面的空白。
+
+\    06.适用主题：听取意见，接受批评，胸怀开阔
+
+\    只有善听提醒，别人才乐于提醒、敢于提醒。齐威王悬奖鼓励“提醒”，臣民纷纷进谏，门庭若市，才有“战胜于朝廷”；唐太宗从谏如流，每临大事，才有魏征等大臣屡屡提醒，从而逢险化夷，成就“贞观之治”。共产党人坚持“让人民作主和人民监督”的制度，善于听取黄炎培先生等的提醒，使新政权跳出了“其兴也勃，其亡也忽”的历史周期率。
+
+\    善于听取他人的意见,才能更全面理性的看待自己，使自己更好的成长。唐代著名画家周肪为寺庙绘制壁画。为了听取更多人的意见，他先画出草图挂在路边，过往的行人边看边评头论足。周肮仔细听，把他人的议建牢记在，进行斟酌修改，一个月后，周肪的草图挂出，路过的人赞不绝，这时周防按照最后的图案将这幅作品完成，果然成为一幅名作。周肪从别的意见中找到了自己的不足,更加全面的进行修改，结果成就了一幅佳作。
+
+\    07.适用主题：立志，志向高远，人生理想
+
+\    每个人都有一定的潜能，立志则可以使这些潜能激发出来，特别是人一旦立下了高远的志向，就更加能够激发自己的潜能，并可以转化为坚忍不拔的意志和不屈不挠的力量。孔子一辈子内心深处的追求是“天下有道”，尽管历经种种磨难，甚至被很多人嘲笑，但是他从不停下追求目标的步伐。
+
+\    立志是一切开始的前提，青年要立志做大事，周总理有一个理想，那就是为中华崛起而读书。他不断努力的读书钻研，成为新中国第一任总理兼外交部部长。他的梦想实现了，中华崛起了，屹立在世界的东方。
+
+\    08.适用主题：奋斗向上，青春拼搏，坚忍刻苦
+
+\    在追求理想的道路上不可能是一帆风顺的，肯定要经历千辛万苦，披荆斩棘。但只要有一颗勇敢的心，那么就一定能伴随你迈向成功！匡衡的凿壁偷光，宋濂的谦虚好学。他们一开始也和常人一样，但他们的付出要比常人多千百倍。最终他们取得了辉煌的成就，拥有了灿烂的人生。
+
+\    我们欣喜地看到，无数辉煌的发展成就中都铭刻着青年人奋斗的印记：全国五一劳动奖章获得者、东海第一救助飞行队飞行管理部部长“80后”宋寅入职10多年，带领机组人员实施海上救援，筑起生命防线；全国青年岗位能手、“90后”霍文震牵头成立冬奥场馆“冰立方”项目青年突击队，提前3个月完成架体搭设……今日光明的中国正是在这样前赴后继、艰苦卓绝的接续奋斗中诞生的。
+
+\    09.适用主题：爱国精神，报国豪情，民族榜样
+
+\    精神赓续，薪火相传。一代代知识分子传承老一辈人爱国奋斗的优良传统，提升着精神高度，创造出崭新业绩。黄大年是大家公认的“科研疯子”，坚持“振兴中华，乃我辈责任”；李保国把自己变成农民，坚持“老百姓需要什么，我就研究什么”；南仁东仰望星空，脚踏实地，20年做一件事，只为打造世界最大单口径巨型射电望远镜；钟扬一生做着种子梦，只求守护祖国植物基因宝库。他们把对祖国的忠诚之心，对知识的炽热追求，转化为报国豪情、奋斗激情，在时代的洪流中书写出壮美人生。
+
+\    誓干惊天动地事，甘做隐姓埋名人。我国知识分子一直有爱国奋斗的优良传统。在革命、建设和改革开放的岁月里，广大知识分子胸怀赤子之心，坚守报国之志，为党和人民建立了彪炳史册的功勋，筑起了一座中华民族的精神丰碑。“两弹一星”精神第一条，就是热爱祖国、无私奉献。“回国不需要理由”“我们中国要出头”。当年，钱学森、邓稼先、郭永怀等知识分子冲破层层阻碍，与祖国走在一起，隐姓埋名、默默效力，铸就了共和国的“核盾牌”。他们是中华民族的脊梁，知识分子的楷模。
+
+
+
+02、人物素材
+
+
+
+\    1.鲍硕：天问一号任务北京调度
+
+\    鲍硕出生于1992年，是北京航天飞行控制中心组建40年来第一位女调度。天问一号成功着陆火星时，她保持稳定的语速准确地发出一条条指令，一次轨道控制任务大概能有上百句调度用语，她都熟练背诵。正如她所说：“我觉得监视天问的状态，比睡觉重要。” 
+
+\    （关键词：爱岗敬业）
+
+\    2.周承钰：“航天花木兰”
+
+\    1996年生的周承钰，在嫦娥五号探测器发射任务中，担任火箭连接器系统指挥员，是文昌发射场最年轻女指挥。她小小的身躯里集聚着巨大能量，勇敢尝试、突破自我，成为人们心中真正的“火箭少女”“航天花木兰”
+
+\    （关键词：勇敢尝试、突破自我）
+
+\    3.吴於人：同济大学物理学教授
+
+\    72岁的吴於人坚持物理科普教育16年，被网友称作“吴姥姥”。她在短视频里演示实验，将一个个晦涩难懂的物理知识变得通俗有趣，大量网友跟随她的视频在科学的世界遨游。
+
+\    （关键词：创新教育）
+
+\    4.章静云：许昌舰导弹操作手
+
+\    2019年，许昌舰护送一批商船途中遭遇“海盗团”，22岁的章静云第一次手持武器直面海盗。她经历这样的海盗风波不止一次，每闯过一关后都会收获满满感动和自豪。
+
+\    （关键词：勇气，敢于尝试）
+
+\    5.邓迎香：“当代女愚公”
+
+\    邓迎香作为麻怀村的党支部书记，她积极改变家乡贫困落后面貌，不等不靠、敢闯敢干、艰苦奋斗，带领村民发扬“愚公精神”，锲而不舍、战天斗地，在悬崖峭壁上硬生生凿出一条“麻怀出路”，也因此被誉为“女愚公”。（关键词：家国情怀）
+
+\    6.支月英：最美乡村教师
+
+\    19岁的支月英远离家乡，不顾家人反对，到条件艰苦的山区支教，一干就是三十多年，坚守在偏远的山村讲台，从“支姐姐”到“支妈妈”，教育了大山深处的两代人。她用自身行动践行着初心和使命，在平凡岗位做出不平凡的业绩。
+
+\    （关键词：家国情怀 淡泊名利 不忘初心）
+
+7.李桓英：世界著名麻风病防治专家
+
+\    1958年，37岁的李桓英，放弃了国外优渥的生活，只身一人回到了祖国，在这之后长达半个多世纪的岁月中，她每一天都在忘我地工作，硬生生把一个个与世隔绝的麻风寨，变成了幸福村。从37岁到100岁，为了实现一个“没有麻风病的世界”，她奋斗了半个多世纪。
+
+\    （关键词：家国情怀 舍小我为大我） of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
